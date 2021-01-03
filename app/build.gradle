@@ -13,7 +13,7 @@ android {
         applicationId "org.meowcat.edxposed.manager"
         minSdkVersion 24
         //noinspection OldTargetApi
-        targetSdkVersion 27
+        targetSdkVersion 30
         versionCode 45759
         versionName "4.6.0-pre"
     }
